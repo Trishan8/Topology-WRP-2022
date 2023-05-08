@@ -16,4 +16,4 @@ git clone https://github.com/Trishan8/Topology-WRP-2022
 git pull
 
 
-You can always [download the whole repo as a zip](https://github.com/Trishan8/Topology-WRP-2022/archive/refs/heads/master.zip)
+* You can always [download the whole repo as a zip](https://github.com/Trishan8/Topology-WRP-2022/archive/refs/heads/master.zip)
