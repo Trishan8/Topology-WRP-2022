@@ -9,7 +9,7 @@ Primarily focused on motivating the first year undergraduates who were intereste
   - MacOS (comes pre-installed): `brew install git`
 2. Clone the repo
 
-git clone https://github.com/BikramHalder/BMath-Sem1-2021--22
+git clone https://github.com/Trishan8/Topology-WRP-2022
 
 3. Update the repo later
 
