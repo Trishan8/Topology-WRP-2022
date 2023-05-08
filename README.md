@@ -9,11 +9,12 @@ Primarily focused on motivating the first year undergraduates who were intereste
   - MacOS (comes pre-installed): `brew install git`
 2. Clone the repo
 
+```bash
 git clone https://github.com/Trishan8/Topology-WRP-2022
-
+```
 3. Update the repo later
-
+```bash
 git pull
-
+```
 
 * You can always [download the whole repo as a zip](https://github.com/Trishan8/Topology-WRP-2022/archive/refs/heads/master.zip)
